@@ -1,2 +1,0 @@
-# LastChance
-Multipage website
