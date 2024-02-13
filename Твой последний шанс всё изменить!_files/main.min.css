@@ -1262,3 +1262,10 @@ body footer ul.menu_footer a {
           margin-left: auto
      }
 }
+.button_yes_new{
+     color: #fff;
+     font-weight: bold;
+     font-size: 16px;
+     letter-spacing: 1.5px;
+     text-decoration: none;
+}
